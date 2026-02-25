@@ -1,3 +1,3 @@
 <?php
 
-echo "HeowattalloHellodekinai Worldtanakaadekinai!";
+echo "HeowattalloHellodekinai tanakaWorldtanakaadekinai!";
